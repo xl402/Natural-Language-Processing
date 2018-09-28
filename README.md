@@ -1,2 +1,2 @@
-# Natural_Language_Processing
+# Natural Language Processing
 Scripts for NLP exercises
